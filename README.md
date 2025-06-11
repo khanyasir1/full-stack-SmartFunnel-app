@@ -1,8 +1,4 @@
-Here’s a complete `README.md` file you can use for your **Smart Funnel App** GitHub repository. It includes a step-by-step guide to run the application locally using XAMPP, project setup instructions, technologies used, and key features.
 
----
-
-````markdown
 # 🛒 Smart Funnel App
 
 Smart Funnel App is a simple full-stack e-commerce checkout funnel built using **HTML, CSS, JavaScript, PHP, and MySQL**. It allows users to enter checkout details, submit the form via AJAX, and then redirects them to an upsell page offering a limited-time product. It demonstrates how a basic sales funnel works in web applications.
